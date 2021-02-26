@@ -1,0 +1,8 @@
+version: 1.0.0
+files:
+  - url: CopicloudClient-Setup-1.0.0.exe
+    sha512: D0YIctpRwd+hsTHtWBHBfO+wKLBEGiHvjWKXxs2Topk5v0eicfZRe/zjRCXGLZyl7Z6nHzMVTfhHajOct9cZ8g==
+    size: 62575854
+path: CopicloudClient-Setup-1.0.0.exe
+sha512: D0YIctpRwd+hsTHtWBHBfO+wKLBEGiHvjWKXxs2Topk5v0eicfZRe/zjRCXGLZyl7Z6nHzMVTfhHajOct9cZ8g==
+releaseDate: '2021-02-26T11:40:25.698Z'
